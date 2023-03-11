@@ -24,4 +24,5 @@ It is relational Database, which contains 17 tables like films, customers, payme
 
 ##Project Vizualisation
 
-Tableau
+Tableau 
+https://public.tableau.com/app/profile/emin.cerit/viz/RockbusterDataAnalytics/RockbusterDataAnalytics
