@@ -20,7 +20,7 @@ the main questions they’d like to answer:
 
 ## Data Set
 
-It is relational Database, which contains 17 tables like films, customers, payments, actors, etc..
+It is a relational Database, which contains 17 tables like films, customers, payments, actors, etc..
 
 ## Project Vizualisation
 
