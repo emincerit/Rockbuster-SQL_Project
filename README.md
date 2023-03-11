@@ -25,6 +25,6 @@ It is a relational Database, which contains 17 tables like films, customers, pay
 
 ## Project Vizualisation
 
-[Tableau] (https://public.tableau.com/app/profile/emin.cerit/viz/RockbusterDataAnalytics/RockbusterDataAnalytics?publish=yes)
+[Tableau](https://public.tableau.com/app/profile/emin.cerit/viz/RockbusterDataAnalytics/RockbusterDataAnalytics?publish=yes)
 
 
