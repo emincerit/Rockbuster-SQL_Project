@@ -1,4 +1,7 @@
 # Rockbuster-SQL_Project
+
+![RB Logo](https://github.com/emincerit/Rockbuster-SQL_Project/blob/48a81e54971d02463037b496ebe00e10a8af6d95/Rockbuster%20Stealth%20-%20Logo.png)
+
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. 
 This project was handled by using SQL as part of the Data Analytics Course at CareerFoundry.
 
